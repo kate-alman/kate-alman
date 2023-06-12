@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjZmRmMDJkMDRkOGY1MzczNTA3Zjc2N2EzMzk5N2Y3NGI2MjM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/137EaR4vAOCn1S/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjZmRmMDJkMDRkOGY1MzczNTA3Zjc2N2EzMzk5N2Y3NGI2MjM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/137EaR4vAOCn1S/giphy.gif" width="600" height="200"/>
 </div>
 
 ## :woman_technologist: About Me
